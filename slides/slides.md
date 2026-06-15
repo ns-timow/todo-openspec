@@ -2,6 +2,11 @@
 marp: true
 ---
 
+# Openspec Workshop
+Todo List Demo
+
+---
+
 # Setup Openspec
 
 ```
@@ -78,7 +83,29 @@ When changes are done, run:
 
 ---
 
+# Discussions
+
+---
+
 # Model
 
 * Opus: Planning
 * Sonnet: Implementation
+
+---
+
+# Design Doc
+
+* Detailed, fine-grained description on confluence
+* [Component Example](https://netskope.atlassian.net/wiki/spaces/Reporting/pages/6466011875/Design+Doc+for+Reporting+Overview+Page#Tab-Switch-Area)
+* [API Example](https://netskope.atlassian.net/wiki/spaces/Reporting/pages/6466011875/Design+Doc+for+Reporting+Overview+Page#API-Design)
+
+---
+
+# Source of Truth
+* before: source code
+* now: spec files
+
+---
+
+# QA
