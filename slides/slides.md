@@ -7,6 +7,12 @@ Todo List Demo
 
 ---
 
+# To view the Slides
+Install VSCode Plugin: Marp for VS Code
+![alt text](image-4.png)
+
+---
+
 # Setup Openspec
 
 ```
